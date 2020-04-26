@@ -1,0 +1,1 @@
+A **React** project created using manual configuration instead of using **CRA(Create React App)**
